@@ -7,12 +7,6 @@ export default function Home() {
       <UserButton
       afterSignOutUrl='/' 
       />
-      <p className="text-3xl font-medium text-sky-700">
-        Hello World
-      </p>
-        <Button variant="destructive">
-          Hello
-          </Button>
     </div>
   )
 }
